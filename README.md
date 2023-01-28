@@ -16,17 +16,17 @@
   * XML
 
 <b>Screenshots</b><br><br>
-<img src="screenshot/shot1.jpg" width="200" height="300">
-<img src="screenshot/shot2.jpg" width="200" height="300">
-<img src="screenshot/shot3.jpg" width="200" height="300">
+<img src="screenshots/shot1.jpg" width="200" height="300">
+<img src="screenshots/shot2.jpg" width="200" height="300">
+<img src="screenshots/shot3.jpg" width="200" height="300">
 <br>
-<img src="screenshot/shot4.jpg" width="200" height="300">
-<img src="screenshot/shot5.jpg" width="200" height="300">
-<img src="screenshot/shot5.jpg" width="200" height="300">
+<img src="screenshots/shot4.jpg" width="200" height="300">
+<img src="screenshots/shot5.jpg" width="200" height="300">
+<img src="screenshots/shot5.jpg" width="200" height="300">
 <br>
-<img src="screenshot/shot7.jpg" width="200" height="300">
-<img src="screenshot/shot8.jpg" width="200" height="300">
-<img src="screenshot/shot9.jpg" width="200" height="300">
+<img src="screenshots/shot7.jpg" width="200" height="300">
+<img src="screenshots/shot8.jpg" width="200" height="300">
+<img src="screenshots/shot9.jpg" width="200" height="300">
 
 
 ### Need of Project :
