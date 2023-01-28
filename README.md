@@ -15,6 +15,14 @@
 #### Frontend :
   * XML
 
+<b>Screenshots</b><br><br>
+<img src="screens/sc1.png" width="200" height="300">
+<img src="screens/sc2.png" width="200" height="300">
+<img src="screens/sc3.png" width="200" height="300">
+<br>
+<img src="screens/sc4.png" width="200" height="300">
+<img src="screens/sc5.png" width="200" height="300">
+
 
 ### Need of Project :
 &nbsp;&nbsp;&nbsp;&nbsp; Health is the only thing that we should care the most. COVID-19 made all the people aware about the importance of health. In such a situation, forgetting about the medicine timings can severely affect the health of an individual. Taking this into consideration, I came up with the idea of this project. The main feature of this project is that it is `multi-user`. so that all the family members especially the elder people who generally dont have smartphones can get benefitted by saving their schedule in one of the smartphone in their family.
